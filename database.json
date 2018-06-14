@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "name": {
+        "first": "Riley",
+        "last": "Mathews"
+      },
+      "gamertag": "Vax",
+      "password": "hacked",
+      "id": 1
+    }
+  ],
+  "usersGames": [],
+  "usersGenres": [],
+  "usersPlatforms": [],
+  "platforms": [
+    {
+      "id": 145,
+      "name": "Xbox One",
+      "abreviation": "XB1"
+    },
+    {
+      "id": 146,
+      "name": "Playstation 4",
+      "abreviation": "PS4"
+    },
+    {
+      "id": 94,
+      "name": "Windows PC",
+      "abreviation": "PC"
+    }
+  ]
+}
